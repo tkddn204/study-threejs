@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "three": "^0.162.0"
+  },
+  "devDependencies": {
+    "lil-gui": "^0.19.2",
+    "vite": "^5.2.0"
+  },
+  "name": "3d-text",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "type": "module",
+  "version": "0.0.0"
+}
